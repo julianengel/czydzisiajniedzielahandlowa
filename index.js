@@ -1,4 +1,4 @@
-let bool = false;
+let bool = true;
 
 if (bool){
   document.body.style.backgroundColor = "#4cd137";
