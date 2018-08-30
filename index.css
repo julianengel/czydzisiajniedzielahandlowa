@@ -12,6 +12,19 @@ html, body {
 
 }
 
+.main #moreinfo{
+
+position:absolute;
+bottom: 0;
+font-family: 'Archivo', sans-serif;
+font-size: 0.8em;
+color: white;
+padding-bottom: 5px;
+text-decoration: none;
+}
+lor: #ABB7B7;
+}
+
 #text{
   font-family: 'Archivo', sans-serif;
   font-size: 6em;
